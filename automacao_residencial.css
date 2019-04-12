@@ -44,7 +44,7 @@ div.rele1_desligado {
     width: 300px;
     height: 206px;
     border: none;
-	background: url(https://rodrigotorressilva.github.io/automacao-res/lampada_desligada.png) no-repeat left top;
+	background: url(https://rodrigotorressilva.github.io/automacao-res/lampada_desligada.png) no-repeat left ;
 }
 
 div.rele2_ligado {
@@ -70,7 +70,7 @@ div.rele2_desligado {
 #div1 {
 	position: absolute;
 	right: 85px;
-	top: 595px;
+	top: 195px;
     border-radius: 25px;
     border: 2px solid #000000;
     width: 350px;
