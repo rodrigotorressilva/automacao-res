@@ -40,8 +40,8 @@ div.rele1_ligado {
 div.rele1_desligado {
     position: absolute;
     right: -110px;
-    top: 20px;
-    width: 300px;
+    top: 120px;
+    width: 30px;
     height: 206px;
     border: none;
 	background: url(https://rodrigotorressilva.github.io/automacao-res/lampada_desligada.png) no-repeat left top;
